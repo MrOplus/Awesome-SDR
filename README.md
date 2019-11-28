@@ -6,7 +6,8 @@ Awesome SDR
 [Universal Radio Hacker](https://github.com/jopohl/urh) | Universal Radio Hacker: investigate wireless protocols like a boss 📡😎 <br/>
 [RED Hawk](https://redhawksdr.github.io/) | REDHAWK is a software-defined radio (SDR) framework designed to support the development, deployment, and management of real-time software radio applications. <br />
 [QQRX](https://github.com/csete/gqrx) | Software defined radio receiver powered by GNU Radio and Qt. <br/>
-[GNU Radio](https://github.com/gnuradio/gnuradio) | GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.<br>
+[GNU Radio](https://github.com/gnuradio/gnuradio) | GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.<br/>
+[Inspectrum](https://github.com/miek/inspectrum) | Offline radio signal analyser<br/>
 
 # 433 Mhz Tools #
 [RTL 433](https://github.com/merbanan/rtl_433) | Program to decode traffic from Devices that are broadcasting on 433.9 MHz like temperature sensors <br />
