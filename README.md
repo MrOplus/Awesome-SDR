@@ -11,8 +11,10 @@ Awesome SDR
 # 433 Mhz Tools #
 [RTL 433](https://github.com/merbanan/rtl_433) | Program to decode traffic from Devices that are broadcasting on 433.9 MHz like temperature sensors <br />
 
-# TX Tools #
+# Rx|TX Tools #
 [RPI TX](https://github.com/F5OEO/rpitx) | RF transmitter for Raspberry Pi
  <br />
+[rpitx](https://github.com/markondej/fm_transmitter) | Raspberry Pi as FM transmitter
+
  
 
